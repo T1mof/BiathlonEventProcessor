@@ -22,7 +22,6 @@ make lint	запуск golangci-lint (при установленном)
 make test	запуск всех тестов (go test ./...)
 make build	сборка бинарника biathlon
 make run	сборка и запуск бинарника (читает config.json и events/)
-make clean	удаление бинарника
 ```
 
 Сборка и запуск
